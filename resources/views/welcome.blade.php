@@ -1,0 +1,1 @@
+<h1>Cookies and associative array response</h1>
